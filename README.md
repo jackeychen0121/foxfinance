@@ -13,6 +13,7 @@ $ npm run dev
 # generate static project to deploy to production
 $ npm run generate
 
+
 # upload to Amazon s3
 $ aws s3 sync dist s3://fox-market
 
